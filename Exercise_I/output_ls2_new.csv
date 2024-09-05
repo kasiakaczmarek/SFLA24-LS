@@ -1,0 +1,101 @@
+Tresc podsumowania,Degree of Truth,Degree of Support,Degree of Focus
+For half patients in state 0 with energy_high we have localshimmer_low,1.0,0.6856677524429967,0.5518039788672112
+For minority patients in state 0 with energy_high we have localshimmer_low,0.0,0.6856677524429967,0.5518039788672112
+For almost_no patients in state 0 with energy_high we have localshimmer_low,0.0,0.6856677524429967,0.5518039788672112
+For almost_all patients in state 0 with energy_high we have pitch_skewness_high,0.0,0.6498371335504886,0.47036078282832794
+For minority patients in state 1 with energy_high we have localshimmer_low,0.0,0.5376647834274952,0.5103919158566058
+For half patients in state 1 with energy_high we have pitch_skewness_high,1.0,0.5376647834274952,0.5456837796433427
+For almost_all patients in state 1 with energy_high we have pitch_skewness_low,0.0,0.4981167608286252,0.45337460077096964
+For minority patients in state 2 with energy_high we have localjitter_high,0.5261773259755123,0.43157894736842106,0.3370214172766726
+For almost_no patients (all states) with energy_medium we have f0_slope_mean_medium,0.0,0.2822710230316015,0.26083089126071973
+For half patients in state 0 with energy_low we have energy_high,0.0,0.6156351791530945,0.5244797958615154
+For minority patients in state 0 with energy_low we have localjitter_high,0.07255978009395403,0.5651465798045603,0.45916652410470216
+For almost_no patients in state 0 with energy_low we have localjitter_high,0.0,0.5651465798045603,0.45916652410470216
+For almost_all patients in state 0 with energy_low we have localjittern_medium,0.0,0.3990228013029316,0.2597759999226463
+For majority patients in state 0 with energy_low we have localjittern_medium,0.0,0.3990228013029316,0.2597759999226463
+For almost_all patients in state 0 with energy_low we have pitch_mean_high,0.0,0.6221498371335505,0.5666293582137962
+For half patients in state 2 with f0_slope_mean_high we have pitch_skewness_medium,0.6743268235524913,0.4,0.2864058821175957
+For minority patients in state 2 with f0_slope_mean_high we have pitch_skewness_medium,0.3295032548904209,0.4,0.2864058821175957
+For almost_no patients in state 2 with f0_slope_mean_high we have pitch_skewness_medium,0.0,0.4,0.2864058821175957
+For almost_all patients in state 2 with f0_slope_mean_high we have pitch_skewness_low,0.0,0.47368421052631576,0.48155608748583106
+For almost_all patients in state 1 with f0_slope_mean_medium we have pitch_skewness_low,0.0,0.3794726930320151,0.45337460077096964
+For almost_no patients in state 1 with f0_slope_mean_medium we have pitch_skewness_low,0.0,0.3794726930320151,0.45337460077096964
+For half patients in state 1 with f0_slope_mean_medium we have pitch_mean_medium,0.0,0.2495291902071563,0.2568331505350455
+For almost_no patients in state 1 with f0_slope_mean_medium we have pitch_mean_medium,0.0,0.2495291902071563,0.2568331505350455
+For almost_all patients in state 1 with f0_slope_mean_medium we have pitch_mean_low,0.0,0.3766478342749529,0.5039062110001792
+For majority patients in state 1 with f0_slope_mean_medium we have pitch_mean_low,0.0,0.3766478342749529,0.5039062110001792
+For half patients in state 1 with f0_slope_mean_medium we have pitch_mean_low,1.0,0.3766478342749529,0.5039062110001792
+For almost_no patients in state 2 with f0_slope_mean_medium we have energy_high,0.0,0.29473684210526313,0.5491121488911698
+For half patients (all states) with f0_slope_mean_medium we have f0_slope_mean_high,1.0,0.5029459025174076,0.5170076237702093
+For almost_no patients (all states) with f0_slope_mean_medium we have f0_slope_mean_high,0.0,0.5029459025174076,0.5170076237702093
+For almost_all patients (all states) with f0_slope_mean_medium we have f0_slope_mean_low,0.0,0.5029459025174076,0.4803142830321477
+For almost_no patients in state 0 with f0_slope_mean_low we have pitch_mean_high,0.0,0.5618892508143323,0.5666293582137962
+For majority patients in state 1 with f0_slope_mean_low we have energy_low,0.389907834466561,0.5932203389830508,0.6363783311262075
+For half patients in state 1 with f0_slope_mean_low we have energy_low,0.8868509977335444,0.5932203389830508,0.6363783311262075
+For minority patients in state 1 with f0_slope_mean_low we have energy_low,0.0,0.5932203389830508,0.6363783311262075
+For almost_no patients in state 1 with f0_slope_mean_low we have energy_low,0.0,0.5932203389830508,0.6363783311262075
+For minority patients in state 0 with localjitter_high we have f0_slope_mean_low,0.1600822101452117,0.5423452768729642,0.4844526004039616
+For almost_no patients in state 0 with localjitter_high we have f0_slope_mean_low,0.0,0.5423452768729642,0.4844526004039616
+For almost_all patients in state 0 with localjitter_high we have localjittern_medium,0.0,0.5472312703583062,0.2597759999226463
+For majority patients in state 0 with localjitter_high we have localjittern_medium,0.0,0.5472312703583062,0.2597759999226463
+For half patients in state 1 with localjitter_high we have pitch_mean_medium,0.0,0.3832391713747646,0.2568331505350455
+For almost_all patients (all states) with localjitter_high we have localjitter_low,0.0,0.5463310123192288,0.5124487611583981
+For half patients (all states) with localjitter_high we have localjitter_low,0.0,0.5463310123192288,0.5124487611583981
+For minority patients (all states) with localjitter_high we have localjitter_low,0.9018661959597517,0.5463310123192288,0.5124487611583981
+For almost_no patients (all states) with localjitter_high we have localjitter_low,0.13706572525283733,0.5463310123192288,0.5124487611583981
+For almost_all patients (all states) with localjitter_high we have localshimmer_high,0.0,0.6754151044456347,0.47658746501992105
+For minority patients (all states) with localjitter_high we have localshimmer_high,0.0,0.6754151044456347,0.47658746501992105
+For half patients (all states) with localjitter_high we have localshimmer_medium,0.20617534371836396,0.4392072844134976,0.26362767567280443
+For almost_all patients (all states) with localjitter_high we have pitch_skewness_high,0.0,0.5993572576325656,0.5115120697550003
+For half patients (all states) with localjitter_high we have pitch_skewness_high,1.0,0.5993572576325656,0.5115120697550003
+For minority patients (all states) with localjitter_high we have pitch_skewness_high,0.0,0.5993572576325656,0.5115120697550003
+For almost_no patients (all states) with localjitter_high we have pitch_skewness_high,0.0,0.5993572576325656,0.5115120697550003
+For almost_all patients (all states) with localjitter_high we have pitch_skewness_medium,0.0,0.40814140332083554,0.2545955690394463
+For minority patients (all states) with localjitter_high we have pitch_mean_high,0.15716575813438138,0.5527584359935725,0.5302572842001033
+For almost_no patients (all states) with localjitter_high we have pitch_mean_high,0.0,0.5527584359935725,0.5302572842001033
+For almost_all patients (all states) with localjitter_high we have pitch_mean_medium,0.0,0.39100160685591856,0.2684952443334988
+For majority patients (all states) with localjitter_high we have pitch_mean_medium,0.0,0.39100160685591856,0.2684952443334988
+For half patients in state 1 with localjitter_low we have pitch_skewness_high,1.0,0.551789077212806,0.5456837796433427
+For minority patients in state 1 with localjitter_low we have pitch_mean_low,0.3197249310540282,0.532015065913371,0.5039062110001792
+For almost_no patients in state 1 with localjitter_low we have pitch_mean_low,0.0,0.532015065913371,0.5039062110001792
+For almost_all patients in state 2 with localjitter_low we have energy_high,0.0,0.6421052631578947,0.5491121488911698
+For majority patients in state 2 with localjitter_low we have energy_high,0.29036212477746115,0.6421052631578947,0.5491121488911698
+For almost_all patients (all states) with localjitter_low we have pitch_skewness_high,0.0,0.5516871987145152,0.5115120697550003
+For almost_no patients in state 0 with localshimmer_high we have pitch_mean_high,0.0,0.5179153094462541,0.5666293582137962
+For majority patients in state 1 with localshimmer_high we have energy_high,0.0,0.5433145009416196,0.3626800492881051
+For almost_all patients in state 1 with localshimmer_high we have f0_slope_mean_high,0.0,0.5979284369114878,0.5358978654621348
+For majority patients in state 1 with localshimmer_high we have f0_slope_mean_high,0.19166810596276504,0.5979284369114878,0.5358978654621348
+For half patients in state 1 with localshimmer_high we have f0_slope_mean_high,1.0,0.5979284369114878,0.5358978654621348
+For minority patients in state 1 with localshimmer_high we have f0_slope_mean_high,0.0,0.5979284369114878,0.5358978654621348
+For majority patients in state 1 with localshimmer_high we have f0_slope_mean_medium,0.0,0.4086629001883239,0.2838497395910593
+For almost_no patients in state 2 with localshimmer_high we have energy_high,0.0,0.43157894736842106,0.5491121488911698
+For majority patients (all states) with localshimmer_high we have pitch_mean_high,0.0,0.5072308516336369,0.5302572842001033
+For majority patients in state 0 with localshimmer_medium we have energy_medium,0.0,0.31921824104234525,0.28532646277614093
+For almost_all patients in state 0 with localshimmer_medium we have localjitter_high,0.0,0.44462540716612375,0.45916652410470216
+For almost_no patients (all states) with localshimmer_medium we have localshimmer_high,0.0,0.5061596143545796,0.47658746501992105
+For almost_all patients (all states) with localshimmer_medium we have localshimmer_low,0.0,0.5061596143545796,0.5228769163405501
+For majority patients (all states) with localshimmer_medium we have localshimmer_low,0.16845353797822224,0.5061596143545796,0.5228769163405501
+For half patients (all states) with localshimmer_medium we have localshimmer_low,1.0,0.5061596143545796,0.5228769163405501
+For minority patients in state 0 with localshimmer_low we have pitch_skewness_low,0.0,0.6254071661237784,0.529639217171672
+For almost_no patients in state 0 with localshimmer_low we have pitch_skewness_low,0.0,0.6254071661237784,0.529639217171672
+For almost_all patients in state 0 with localshimmer_low we have pitch_mean_high,0.0,0.6596091205211726,0.5666293582137962
+For majority patients in state 0 with localshimmer_low we have pitch_mean_high,0.5925896401400815,0.6596091205211726,0.5666293582137962
+For half patients in state 2 with localshimmer_low we have localshimmer_medium,0.0,0.4,0.20671709689173057
+For majority patients in state 2 with localshimmer_low we have pitch_skewness_low,0.0,0.6631578947368421,0.48155608748583106
+For majority patients in state 0 with pitch_skewness_high we have pitch_skewness_low,0.0,0.5374592833876222,0.529639217171672
+For majority patients in state 1 with pitch_skewness_high we have pitch_mean_low,0.4246680211292802,0.6308851224105462,0.5039062110001792
+For minority patients in state 1 with pitch_skewness_high we have pitch_mean_low,0.0,0.6308851224105462,0.5039062110001792
+For almost_no patients in state 1 with pitch_skewness_high we have pitch_mean_low,0.0,0.6308851224105462,0.5039062110001792
+For almost_all patients in state 2 with pitch_skewness_high we have energy_high,0.0,0.6421052631578947,0.5491121488911698
+For majority patients in state 2 with pitch_skewness_high we have energy_high,0.3207832368842877,0.6421052631578947,0.5491121488911698
+For half patients in state 2 with pitch_skewness_high we have localjitter_high,0.5168279443181539,0.4631578947368421,0.3370214172766726
+For almost_all patients (all states) with pitch_skewness_high we have f0_slope_mean_high,0.0,0.5420460632029994,0.5170076237702093
+For almost_all patients in state 1 with pitch_skewness_medium we have f0_slope_mean_high,0.0,0.371939736346516,0.5358978654621348
+For majority patients in state 1 with pitch_skewness_medium we have f0_slope_mean_high,0.1979725584540949,0.371939736346516,0.5358978654621348
+For half patients in state 1 with pitch_skewness_medium we have f0_slope_mean_high,1.0,0.371939736346516,0.5358978654621348
+For minority patients in state 1 with pitch_skewness_medium we have f0_slope_mean_high,0.0,0.371939736346516,0.5358978654621348
+For almost_no patients (all states) with pitch_skewness_medium we have pitch_mean_medium,0.0,0.2292447777182646,0.2684952443334988
+For half patients in state 0 with pitch_skewness_low we have localjitter_high,1.0,0.6319218241042345,0.45916652410470216
+For minority patients in state 0 with pitch_skewness_low we have localjitter_high,0.02801023278340519,0.6319218241042345,0.45916652410470216
+For almost_no patients in state 0 with pitch_skewness_low we have localjitter_high,0.0,0.6319218241042345,0.45916652410470216
+For almost_all patients in state 0 with pitch_skewness_low we have localjittern_medium,0.0,0.4511400651465798,0.2597759999226463

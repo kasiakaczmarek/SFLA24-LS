@@ -1,0 +1,51 @@
+Descr,Degree of Truth,Degree of Support
+For half patients in state 1 we have localjitter_low,1.0,0.748587570621469
+For half patients (all states) we have f0_slope_mean_low,1.0,0.7509373326191752
+For half patients in state 2 we have energy_low,1.0,0.631578947368421
+For half patients in state 0 we have pitch_mean_low,1.0,0.7361563517915309
+For half patients (all states) we have localshimmer_low,1.0,0.7546866630958757
+For half patients in state 1 we have localshimmer_low,1.0,0.7429378531073446
+For half patients in state 0 we have f0_slope_mean_high,1.0,0.760586319218241
+For half patients (all states) we have pitch_skewness_low,1.0,0.7504017139796465
+For half patients in state 0 we have localjitter_high,1.0,0.7687296416938111
+For half patients in state 0 we have pitch_skewness_low,1.0,0.8078175895765473
+For half patients in state 2 we have pitch_skewness_high,1.0,0.8
+For half patients in state 1 we have pitch_mean_high,1.0,0.7203389830508474
+For half patients (all states) we have pitch_mean_high,1.0,0.7493304767005892
+For half patients in state 1 we have pitch_skewness_low,1.0,0.7024482109227872
+For half patients in state 0 we have energy_low,1.0,0.741042345276873
+For half patients in state 0 we have f0_slope_mean_low,1.0,0.749185667752443
+For half patients in state 2 we have localshimmer_high,1.0,0.6
+For half patients (all states) we have localshimmer_high,1.0,0.7509373326191752
+For half patients in state 1 we have pitch_skewness_high,1.0,0.7664783427495292
+For half patients in state 2 we have localshimmer_low,1.0,0.8
+For half patients (all states) we have energy_low,1.0,0.7787895018746652
+For half patients in state 2 we have pitch_skewness_low,1.0,0.8210526315789474
+For half patients in state 0 we have localjitter_low,1.0,0.7768729641693811
+For half patients in state 1 we have localjitter_high,1.0,0.807909604519774
+For half patients (all states) we have localjitter_low,1.0,0.758971612212105
+For half patients in state 2 we have pitch_mean_low,1.0,0.6842105263157895
+For half patients in state 0 we have energy_high,1.0,0.8745928338762216
+For half patients (all states) we have f0_slope_mean_high,1.0,0.7493304767005892
+For half patients (all states) we have pitch_mean_low,1.0,0.7498660953401178
+For half patients in state 0 we have localshimmer_high,1.0,0.7328990228013029
+For half patients in state 0 we have pitch_skewness_high,1.0,0.7296416938110749
+For half patients in state 2 we have pitch_mean_high,1.0,0.7789473684210526
+For half patients (all states) we have pitch_skewness_high,1.0,0.7498660953401178
+For half patients in state 1 we have f0_slope_mean_high,1.0,0.7693032015065914
+For half patients in state 2 we have energy_high,1.0,0.7578947368421053
+For half patients in state 1 we have f0_slope_mean_low,1.0,0.7542372881355932
+For half patients in state 0 we have localshimmer_low,1.0,0.7850162866449512
+For half patients (all states) we have localjitter_high,1.0,0.7862881628280665
+For half patients (all states) we have energy_high,1.0,0.7691483663631494
+For half patients in state 1 we have localshimmer_high,1.0,0.7702448210922788
+For half patients in state 0 we have pitch_mean_high,1.0,0.7785016286644951
+For half patients in state 1 we have pitch_mean_low,1.0,0.7664783427495292
+For minority patients in state 2 we have f0_slope_mean_medium,0.9356709005680078,0.37894736842105264
+For minority patients in state 2 we have energy_medium,0.8915730908243964,0.3894736842105263
+For minority patients in state 2 we have localjittern_medium,0.8799035094535752,0.45263157894736844
+For minority patients in state 2 we have localshimmer_medium,0.8102532636245228,0.4
+For half patients in state 1 we have energy_high,0.7536206158699045,0.7080979284369114
+For half patients in state 1 we have energy_low,0.7532310235154667,0.8050847457627118
+For minority patients in state 1 we have energy_medium,0.7324252635266186,0.5141242937853108
+For minority patients in state 2 we have pitch_mean_medium,0.679290585420143,0.4631578947368421
