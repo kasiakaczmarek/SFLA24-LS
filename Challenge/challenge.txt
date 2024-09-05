@@ -1,0 +1,6 @@
+Select two predictive models (XGBoost, NN or any other) for the classification of bipolar state based on acoustic features. Next, define fuzzy linguistic variables about acoustic features and corresponding Shapley values (or alternatives) to describe the identified models for classification of bipolar state based on acoustic features.
+
+Input data: DataMoodMonitoring.csv
+
+Deadline for sending slides (10min) summarizing the outcomes (for psychiatrists) + code: 26.09.2024. 
+E-mail: k.kaczmarek@ibspan.waw.pl
